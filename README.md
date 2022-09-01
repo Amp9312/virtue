@@ -16,11 +16,11 @@ Virtual points outweigh sin points by 2x, so when points are totalled at the end
 
 Neither of these values are ever displayed to the player, the only indication that immoral decisions are happening is the scenarios become more and more ethically questionable (sometimes there will be no correct answer)
 
-Some scenarios will be gimmes for the purpose of getting free virtue points, but also stopping points for the player to purposely worsen their sin score and descend a level lower in the scenario tier list
+Some scenarios will be gimmes for the purpose of getting free virtue points, but also stopping points for the player to purposely worsen their sin score and descend a level lower in the scenario tier list. Some scenarios will also come with low resolution bitmap images displaying a poorly rendered depiction of the scenario. 
 
 the idea is to not take the "heaven or hell" concept too cynically, bc it's quickly distanced from that concept to something more immersive and interesting than the results of a facebook-like quiz "where do you go when you die" 
 
-The concept of building my own console is still relevant as its responsible for contributing an analog horror concept of forcing the player to use an interface they're not familiar with
+The concept of building my own console is still relevant as its responsible for contributing an analog horror concept of forcing the player to use an interface they're not familiar with. Expected unfamiliarity from familiar avenues (jumpscares on screen, loud audio responses) will not be present in this form factor, leaving the player wondering what they should expect. 
 
 Seven Sins/Indulgences
 Lust - Gluttony - Greed - Sloth - Wrath - Envy - Pride
