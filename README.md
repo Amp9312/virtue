@@ -21,3 +21,8 @@ Some scenarios will be gimmes for the purpose of getting free virtue points, but
 the idea is to not take the "heaven or hell" concept too cynically, bc it's quickly distanced from that concept to something more immersive and interesting than the results of a facebook-like quiz "where do you go when you die" 
 
 The concept of building my own console is still relevant as its responsible for contributing an analog horror concept of forcing the player to use an interface they're not familiar with
+
+Seven Sins/Indulgences
+Lust - Gluttony - Greed - Sloth - Wrath - Envy - Pride
+
+Virtue Points: They are obtained by either doing the opposite of implied sins in each scenario or doing free self sacrificing acts that do not correspond with any Sin. There will be more opportunities to gain Virtue points than sin points in any one category, but more of the options in each scenario will represent an exclusive sin to that category (ex no scenario will have two options that rack up Envy points)
