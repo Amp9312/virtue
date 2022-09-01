@@ -1,7 +1,7 @@
 # virtue
 This is a video game that be made at someone's hackathon
 
-The concept of this game is will be built with a touch screen display connected to a arduino (uno/mega) and portable battery
+The concept of this game is will be built with a touch screen display connected to a arduino (uno/mega) and portable battery. A good majority of the UI will be a terminal delivering a text-based story, buttons to move up or down in a decision and one button to select (all of which are programmed w the touch screen). Occasional imagery
 
 The device introduces itself as a Virtue-Signal.exe and portrays itself as the sole device capable of spiritual augmented reality - where it connects to your conscious and claims to know whether you are going to heaven or hell. It then inquires whether you'd like to see it do so. 
 
