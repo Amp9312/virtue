@@ -3,7 +3,7 @@ This is a video game that be made at someone's hackathon
 
 The concept of this game is will be built with a touch screen display connected to a arduino (uno/mega) and portable battery
 
-The device introduces itself as a Virtue-Signal.exe and portrays itself as the sole device capability of spiritual augmented reality - where it connects to your conscious and claims to know whether you are going to heaven or hell. It then inquires whether you'd like to see it do so. 
+The device introduces itself as a Virtue-Signal.exe and portrays itself as the sole device capable of spiritual augmented reality - where it connects to your conscious and claims to know whether you are going to heaven or hell. It then inquires whether you'd like to see it do so. 
 
 Agreeing to the proposition will begin a sample/demo question that has no consequence on the overall result (unrelated to the scenario below)
 
